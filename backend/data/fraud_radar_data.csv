@@ -1,0 +1,6 @@
+pincode,district,state,lat,lng,anomaly_score,type,priority,status,forensics_volume_zscore,forensics_bio_to_demo_ratio,forensics_avg_bio_to_demo,forensics_action
+759025,Dhenkanal,Odisha,20.66,85.6,0.82,Mix,HIGH,Pending,4.1,0.82,0.45,Sample 50 records
+248001,Dehradun,Uttarakhand,30.3165,78.0322,0.95,Volume,CRITICAL,In Progress,5.8,0.3,0.28,Immediate audit
+110020,South Delhi,Delhi,28.52,77.27,0.78,Timing,MEDIUM,Pending,2.2,0.5,0.48,Check bulk events
+500032,Hyderabad,Telangana,17.385,78.4867,0.88,Mix,HIGH,Resolved,3.5,0.91,0.4,Verified exceptions
+380001,Ahmedabad,Gujarat,23.0225,72.5714,0.65,Volume,MEDIUM,Pending,2.8,0.35,0.33,Monitor

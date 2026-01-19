@@ -1,0 +1,322 @@
+[
+    {
+        "pincode": "273213",
+        "district": "Gorakhpur",
+        "state": "Uttar Pradesh",
+        "lat": 26.7606,
+        "lng": 83.3732,
+        "risk_score": 0.97,
+        "risk_category": "Red",
+        "children_at_risk": 286,
+        "trend_data": [
+            {
+                "month": "Aug",
+                "value": 0.85
+            },
+            {
+                "month": "Sep",
+                "value": 0.88
+            },
+            {
+                "month": "Oct",
+                "value": 0.92
+            },
+            {
+                "month": "Nov",
+                "value": 0.95
+            },
+            {
+                "month": "Dec",
+                "value": 0.97
+            }
+        ]
+    },
+    {
+        "pincode": "221001",
+        "district": "Varanasi",
+        "state": "Uttar Pradesh",
+        "lat": 25.3176,
+        "lng": 82.9739,
+        "risk_score": 0.92,
+        "risk_category": "Red",
+        "children_at_risk": 215,
+        "trend_data": [
+            {
+                "month": "Aug",
+                "value": 0.75
+            },
+            {
+                "month": "Sep",
+                "value": 0.80
+            },
+            {
+                "month": "Oct",
+                "value": 0.85
+            },
+            {
+                "month": "Nov",
+                "value": 0.89
+            },
+            {
+                "month": "Dec",
+                "value": 0.92
+            }
+        ]
+    },
+    {
+        "pincode": "800001",
+        "district": "Patna",
+        "state": "Bihar",
+        "lat": 25.611,
+        "lng": 85.144,
+        "risk_score": 0.88,
+        "risk_category": "Red",
+        "children_at_risk": 198,
+        "trend_data": [
+            {
+                "month": "Aug",
+                "value": 0.82
+            },
+            {
+                "month": "Sep",
+                "value": 0.84
+            },
+            {
+                "month": "Oct",
+                "value": 0.86
+            },
+            {
+                "month": "Nov",
+                "value": 0.87
+            },
+            {
+                "month": "Dec",
+                "value": 0.88
+            }
+        ]
+    },
+    {
+        "pincode": "208001",
+        "district": "Kanpur Nagar",
+        "state": "Uttar Pradesh",
+        "lat": 26.4499,
+        "lng": 80.3319,
+        "risk_score": 0.75,
+        "risk_category": "Yellow",
+        "children_at_risk": 150,
+        "trend_data": [
+            {
+                "month": "Aug",
+                "value": 0.60
+            },
+            {
+                "month": "Sep",
+                "value": 0.65
+            },
+            {
+                "month": "Oct",
+                "value": 0.70
+            },
+            {
+                "month": "Nov",
+                "value": 0.72
+            },
+            {
+                "month": "Dec",
+                "value": 0.75
+            }
+        ]
+    },
+    {
+        "pincode": "226001",
+        "district": "Lucknow",
+        "state": "Uttar Pradesh",
+        "lat": 26.8467,
+        "lng": 80.9462,
+        "risk_score": 0.65,
+        "risk_category": "Yellow",
+        "children_at_risk": 120,
+        "trend_data": [
+            {
+                "month": "Aug",
+                "value": 0.55
+            },
+            {
+                "month": "Sep",
+                "value": 0.58
+            },
+            {
+                "month": "Oct",
+                "value": 0.60
+            },
+            {
+                "month": "Nov",
+                "value": 0.62
+            },
+            {
+                "month": "Dec",
+                "value": 0.65
+            }
+        ]
+    },
+    {
+        "pincode": "110001",
+        "district": "New Delhi",
+        "state": "Delhi",
+        "lat": 28.6139,
+        "lng": 77.2090,
+        "risk_score": 0.25,
+        "risk_category": "Green",
+        "children_at_risk": 45,
+        "trend_data": [
+            {
+                "month": "Aug",
+                "value": 0.20
+            },
+            {
+                "month": "Sep",
+                "value": 0.22
+            },
+            {
+                "month": "Oct",
+                "value": 0.23
+            },
+            {
+                "month": "Nov",
+                "value": 0.24
+            },
+            {
+                "month": "Dec",
+                "value": 0.25
+            }
+        ]
+    },
+    {
+        "pincode": "400001",
+        "district": "Mumbai",
+        "state": "Maharashtra",
+        "lat": 18.9388,
+        "lng": 72.8353,
+        "risk_score": 0.30,
+        "risk_category": "Green",
+        "children_at_risk": 60,
+        "trend_data": [
+            {
+                "month": "Aug",
+                "value": 0.28
+            },
+            {
+                "month": "Sep",
+                "value": 0.29
+            },
+            {
+                "month": "Oct",
+                "value": 0.29
+            },
+            {
+                "month": "Nov",
+                "value": 0.30
+            },
+            {
+                "month": "Dec",
+                "value": 0.30
+            }
+        ]
+    },
+    {
+        "pincode": "560001",
+        "district": "Bangalore",
+        "state": "Karnataka",
+        "lat": 12.9716,
+        "lng": 77.5946,
+        "risk_score": 0.45,
+        "risk_category": "Yellow",
+        "children_at_risk": 90,
+        "trend_data": [
+            {
+                "month": "Aug",
+                "value": 0.40
+            },
+            {
+                "month": "Sep",
+                "value": 0.42
+            },
+            {
+                "month": "Oct",
+                "value": 0.43
+            },
+            {
+                "month": "Nov",
+                "value": 0.44
+            },
+            {
+                "month": "Dec",
+                "value": 0.45
+            }
+        ]
+    },
+    {
+        "pincode": "600001",
+        "district": "Chennai",
+        "state": "Tamil Nadu",
+        "lat": 13.0827,
+        "lng": 80.2707,
+        "risk_score": 0.20,
+        "risk_category": "Green",
+        "children_at_risk": 30,
+        "trend_data": [
+            {
+                "month": "Aug",
+                "value": 0.18
+            },
+            {
+                "month": "Sep",
+                "value": 0.19
+            },
+            {
+                "month": "Oct",
+                "value": 0.19
+            },
+            {
+                "month": "Nov",
+                "value": 0.20
+            },
+            {
+                "month": "Dec",
+                "value": 0.20
+            }
+        ]
+    },
+    {
+        "pincode": "700001",
+        "district": "Kolkata",
+        "state": "West Bengal",
+        "lat": 22.5726,
+        "lng": 88.3639,
+        "risk_score": 0.55,
+        "risk_category": "Yellow",
+        "children_at_risk": 110,
+        "trend_data": [
+            {
+                "month": "Aug",
+                "value": 0.50
+            },
+            {
+                "month": "Sep",
+                "value": 0.52
+            },
+            {
+                "month": "Oct",
+                "value": 0.53
+            },
+            {
+                "month": "Nov",
+                "value": 0.54
+            },
+            {
+                "month": "Dec",
+                "value": 0.55
+            }
+        ]
+    }
+]

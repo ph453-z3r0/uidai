@@ -1,0 +1,87 @@
+[
+    {
+        "pincode": "759025",
+        "district": "Dhenkanal",
+        "state": "Odisha",
+        "lat": 20.66,
+        "lng": 85.60,
+        "anomaly_score": 0.82,
+        "type": "Mix",
+        "priority": "HIGH",
+        "status": "Pending",
+        "forensics": {
+            "volume_zscore": 4.1,
+            "bio_to_demo_ratio": 0.82,
+            "avg_bio_to_demo": 0.45,
+            "action": "Sample 50 records from Jan 15"
+        }
+    },
+    {
+        "pincode": "248001",
+        "district": "Dehradun",
+        "state": "Uttarakhand",
+        "lat": 30.3165,
+        "lng": 78.0322,
+        "anomaly_score": 0.95,
+        "type": "Volume",
+        "priority": "CRITICAL",
+        "status": "In Progress",
+        "forensics": {
+            "volume_zscore": 5.8,
+            "bio_to_demo_ratio": 0.30,
+            "avg_bio_to_demo": 0.28,
+            "action": "Immediate audit of operator logs"
+        }
+    },
+    {
+        "pincode": "110020",
+        "district": "South Delhi",
+        "state": "Delhi",
+        "lat": 28.52,
+        "lng": 77.27,
+        "anomaly_score": 0.78,
+        "type": "Timing",
+        "priority": "MEDIUM",
+        "status": "Pending",
+        "forensics": {
+            "volume_zscore": 2.2,
+            "bio_to_demo_ratio": 0.50,
+            "avg_bio_to_demo": 0.48,
+            "action": "Check for bulk update events"
+        }
+    },
+    {
+        "pincode": "500032",
+        "district": "Hyderabad",
+        "state": "Telangana",
+        "lat": 17.3850,
+        "lng": 78.4867,
+        "anomaly_score": 0.88,
+        "type": "Mix",
+        "priority": "HIGH",
+        "status": "Resolved",
+        "forensics": {
+            "volume_zscore": 3.5,
+            "bio_to_demo_ratio": 0.91,
+            "avg_bio_to_demo": 0.40,
+            "action": "Verified biometric exceptions"
+        }
+    },
+    {
+        "pincode": "380001",
+        "district": "Ahmedabad",
+        "state": "Gujarat",
+        "lat": 23.0225,
+        "lng": 72.5714,
+        "anomaly_score": 0.65,
+        "type": "Volume",
+        "priority": "MEDIUM",
+        "status": "Pending",
+        "forensics": {
+            "volume_zscore": 2.8,
+            "bio_to_demo_ratio": 0.35,
+            "avg_bio_to_demo": 0.33,
+            "action": "Monitor for next 7 days"
+        }
+    }
+]

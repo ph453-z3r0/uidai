@@ -1,0 +1,6 @@
+pincode,district,state,forecast_monthly,surge_pct,current_machines,wait_time_hours,recommended_machines,projected_wait_time_min,lambda,mu,budget_lakhs
+248001,Dehradun,Uttarakhand,650,225,1,2.3,2,28,3.3,4,4.5
+560066,Bangalore Urban,Karnataka,1200,180,2,3.1,4,15,6.1,4,9.0
+122001,Gurugram,Haryana,850,150,2,1.5,3,20,4.3,4,4.5
+411057,Pune,Maharashtra,500,120,1,1.8,2,25,2.5,4,4.5
+600119,Chennai,Tamil Nadu,450,90,1,1.2,1,45,2.3,4,0.0

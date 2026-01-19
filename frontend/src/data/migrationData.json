@@ -1,0 +1,202 @@
+[
+    {
+        "pincode": "248001",
+        "district": "Dehradun",
+        "state": "Uttarakhand",
+        "forecast_monthly": 650,
+        "surge_pct": 225,
+        "current_machines": 1,
+        "wait_time_hours": 2.3,
+        "recommended_machines": 2,
+        "projected_wait_time_min": 28,
+        "lambda": 3.3,
+        "mu": 4,
+        "budget_lakhs": 4.5,
+        "forecast_data": [
+            {
+                "month": "Jan",
+                "value": 200
+            },
+            {
+                "month": "Feb",
+                "value": 220
+            },
+            {
+                "month": "Mar",
+                "value": 350
+            },
+            {
+                "month": "Apr",
+                "value": 480
+            },
+            {
+                "month": "May",
+                "value": 550
+            },
+            {
+                "month": "Jun",
+                "value": 650
+            }
+        ]
+    },
+    {
+        "pincode": "560066",
+        "district": "Bangalore Urban",
+        "state": "Karnataka",
+        "forecast_monthly": 1200,
+        "surge_pct": 180,
+        "current_machines": 2,
+        "wait_time_hours": 3.1,
+        "recommended_machines": 4,
+        "projected_wait_time_min": 15,
+        "lambda": 6.1,
+        "mu": 4,
+        "budget_lakhs": 9.0,
+        "forecast_data": [
+            {
+                "month": "Jan",
+                "value": 400
+            },
+            {
+                "month": "Feb",
+                "value": 450
+            },
+            {
+                "month": "Mar",
+                "value": 600
+            },
+            {
+                "month": "Apr",
+                "value": 800
+            },
+            {
+                "month": "May",
+                "value": 1000
+            },
+            {
+                "month": "Jun",
+                "value": 1200
+            }
+        ]
+    },
+    {
+        "pincode": "122001",
+        "district": "Gurugram",
+        "state": "Haryana",
+        "forecast_monthly": 850,
+        "surge_pct": 150,
+        "current_machines": 2,
+        "wait_time_hours": 1.5,
+        "recommended_machines": 3,
+        "projected_wait_time_min": 20,
+        "lambda": 4.3,
+        "mu": 4,
+        "budget_lakhs": 4.5,
+        "forecast_data": [
+            {
+                "month": "Jan",
+                "value": 300
+            },
+            {
+                "month": "Feb",
+                "value": 350
+            },
+            {
+                "month": "Mar",
+                "value": 450
+            },
+            {
+                "month": "Apr",
+                "value": 600
+            },
+            {
+                "month": "May",
+                "value": 750
+            },
+            {
+                "month": "Jun",
+                "value": 850
+            }
+        ]
+    },
+    {
+        "pincode": "411057",
+        "district": "Pune",
+        "state": "Maharashtra",
+        "forecast_monthly": 500,
+        "surge_pct": 120,
+        "current_machines": 1,
+        "wait_time_hours": 1.8,
+        "recommended_machines": 2,
+        "projected_wait_time_min": 25,
+        "lambda": 2.5,
+        "mu": 4,
+        "budget_lakhs": 4.5,
+        "forecast_data": [
+            {
+                "month": "Jan",
+                "value": 200
+            },
+            {
+                "month": "Feb",
+                "value": 220
+            },
+            {
+                "month": "Mar",
+                "value": 280
+            },
+            {
+                "month": "Apr",
+                "value": 350
+            },
+            {
+                "month": "May",
+                "value": 420
+            },
+            {
+                "month": "Jun",
+                "value": 500
+            }
+        ]
+    },
+    {
+        "pincode": "600119",
+        "district": "Chennai",
+        "state": "Tamil Nadu",
+        "forecast_monthly": 450,
+        "surge_pct": 90,
+        "current_machines": 1,
+        "wait_time_hours": 1.2,
+        "recommended_machines": 1,
+        "projected_wait_time_min": 45,
+        "lambda": 2.3,
+        "mu": 4,
+        "budget_lakhs": 0.0,
+        "forecast_data": [
+            {
+                "month": "Jan",
+                "value": 230
+            },
+            {
+                "month": "Feb",
+                "value": 250
+            },
+            {
+                "month": "Mar",
+                "value": 300
+            },
+            {
+                "month": "Apr",
+                "value": 350
+            },
+            {
+                "month": "May",
+                "value": 400
+            },
+            {
+                "month": "Jun",
+                "value": 450
+            }
+        ]
+    }
+]

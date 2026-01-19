@@ -1,0 +1,6 @@
+pincode,state,district,risk_score,children_at_risk,risk_category,recommended_action,deadline_month,lat,lng
+273213,Uttar Pradesh,Gorakhpur,0.97,286,Red,Mobile van deployment,2026-02-15,26.7606,83.3732
+221001,Uttar Pradesh,Varanasi,0.92,215,Red,Mobile van deployment,2026-02-15,25.3176,82.9739
+800001,Bihar,Patna,0.88,198,Red,Mobile van deployment,2026-02-15,25.611,85.144
+208001,Uttar Pradesh,Kanpur Nagar,0.75,150,Yellow,Monitor,2026-02-15,26.4499,80.3319
+226001,Uttar Pradesh,Lucknow,0.65,120,Yellow,Monitor,2026-02-15,26.8467,80.9462

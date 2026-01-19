@@ -1,0 +1,14 @@
+# Prisma / SQLite
+backend/prisma/*.db
+backend/prisma/*.db-journal
+
+# Node
+node_modules/
+.env
+
+# Python
+__pycache__/
+*.pyc
+
+# Notebooks
+.ipynb_checkpoints/
